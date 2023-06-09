@@ -10,4 +10,7 @@
 ## File browser Mac
 - Pathfinder. Mac usefuless without! 
 
+## Multi device note taking
+- Notability - sync via dropbox/apple cloud
+- Notion - todo lists and nice looking linkable/sharable pages
 
