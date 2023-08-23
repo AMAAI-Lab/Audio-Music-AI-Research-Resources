@@ -8,6 +8,8 @@
 ## Audio codic MS: 
 - [Vall-e](https://newatlas.com/technology/microsoft-vall-e-speech-synthesis/)
 
+- [VST midi, export pytorch to c++, 90% c++ code taken care of](https://github.com/QosmoInc/neutone_sdk/tree/neutone_midi)
+
 ## Datasets: 
 - DJ: [Data Jockey](https://github.com/GeorgeMcIntire/DataJockey)
 - Company: DataMXR (copyright cleared)
