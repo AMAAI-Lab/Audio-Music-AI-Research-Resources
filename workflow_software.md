@@ -14,3 +14,9 @@
 - Notability - sync via dropbox/apple cloud
 - Notion - todo lists and nice looking linkable/sharable pages
 
+
+## Paper promotion
+- https://www.howcanishareit.com/
+- academia.edu
+- arxiv
+- write layman article on Medium
