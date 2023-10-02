@@ -20,3 +20,7 @@
 - academia.edu
 - arxiv
 - write layman article on Medium
+
+
+## AI model training
+- wandb.ai
