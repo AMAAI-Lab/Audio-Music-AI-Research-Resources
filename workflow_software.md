@@ -5,7 +5,8 @@
 - Others, ultraVNC etc https://www.lifewire.com/free-remote-access-software-tools-2625161
 
 ## IDE
-- VSCode with ton of extensions. 
+- VSCode with ton of extensions.
+- ssh remote into other machine using vscode: https://code.visualstudio.com/docs/remote/ssh
 
 ## File browser Mac
 - Pathfinder. Mac usefuless without! 
