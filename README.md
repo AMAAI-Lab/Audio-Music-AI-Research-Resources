@@ -12,7 +12,7 @@ Comprehensive resources to make life easier as a sequential AI researchers.
 
 ## Remote login: 
 - https://parsec.app/teams
-- Others, ultraVNC etc https://www.lifewire.com/free-remote-access-software-tools-2625161
+- Others, TeamViewer ==> note, secure these systems very very well! 
 - SLURM compute GPU server
 
 ## IDE
