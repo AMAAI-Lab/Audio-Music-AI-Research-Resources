@@ -46,6 +46,7 @@ Comprehensive resources to make life easier as a sequential AI researchers.
 # Music research
 
 ## Useful model repos 
+- [List of generative music](https://github.com/affige/genmusic_demo_list)
 - [Muzic](https://github.com/microsoft/muzic)
 - [AudioCraft](https://github.com/facebookresearch/audiocraft)
 
