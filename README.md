@@ -8,6 +8,7 @@ Comprehensive resources to make life easier as a sequential AI researchers.
 
 
 
+
 # Workflow software
 
 ## Remote login: 
@@ -57,6 +58,7 @@ Comprehensive resources to make life easier as a sequential AI researchers.
 
   
 ## Datasets: 
+- [List of MIR datasets](https://www.audiocontentanalysis.org/datasets.html)
 - DJ: [Data Jockey](https://github.com/GeorgeMcIntire/DataJockey)
 - Company: DataMXR (copyright cleared)
 - [List of datasets](https://github.com/Yuan-ManX/ai-audio-datasets-list)
