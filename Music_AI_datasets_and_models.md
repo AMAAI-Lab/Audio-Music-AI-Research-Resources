@@ -1,14 +1,15 @@
 
-# Music
+# Music AI: datasets, models, and tools
 
-## Model repo from Muzic Microsoft
-- [Muzic](https://github.com/microsoft/muzic)
-- [AudioCraft](https://github.com/facebookresearch/audiocraft)
 
-## Audio codic MS: 
-- [Vall-e](https://newatlas.com/technology/microsoft-vall-e-speech-synthesis/)
+## Audio encoders:
+- [music2latents](https://github.com/SonyCSLParis/music2latent)
+- [encodec](https://audiocraft.metademolab.com/encodec.html)
+- [Descript](https://github.com/descriptinc/descript-audio-codec)
+- MERT
+- VGGish
+- MULE
 
-- [VST midi, export pytorch to c++, 90% c++ code taken care of](https://github.com/QosmoInc/neutone_sdk/tree/neutone_midi)
 
 ## Datasets: 
 - DJ: [Data Jockey](https://github.com/GeorgeMcIntire/DataJockey)
@@ -24,7 +25,16 @@
 - [FMA](https://github.com/mdeff/fma)
 
 
-## Accelerator
+
+## Larger model repos
+- [Muzic](https://github.com/microsoft/muzic)
+- [AudioCraft](https://github.com/facebookresearch/audiocraft)
+- [Vall-e](https://newatlas.com/technology/microsoft-vall-e-speech-synthesis/)
+- [VST midi, export pytorch to c++, 90% c++ code taken care of](https://github.com/QosmoInc/neutone_sdk/tree/neutone_midi)
+
+
+
+## Business accelerator
 - [Sound of AI](https://thesoundofai.com/accelerator.html#about)
 
 
@@ -33,6 +43,5 @@
 - Librosa
 
 # Speech
-
 - [List of speech datasets](https://huggingface.co/blog/audio-datasets)
 - [List of datasets](https://github.com/Yuan-ManX/ai-audio-datasets-list)
