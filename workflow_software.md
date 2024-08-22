@@ -27,7 +27,12 @@
 
 
 ## AI model training
-- use Pytorch Lightening: few hours learning will save you so much time. 
+- use Pytorch Lightening: few hours learning will save you so much time.
+- To install packages that all are compatible with cuda version: 
+```
+  1. `pip install light-the-torch`
+  2. `ltt install torch`
+```
 - wandb.ai: tracking training progress (collaboratively)
 - Neptune, similar to wandb
 - SLURM compute GPU server management
