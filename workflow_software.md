@@ -19,9 +19,10 @@
 ## Paper promotion
 - https://www.howcanishareit.com/
 - academia.edu
-- arxiv
+- arxiv -> always share the author password with all co-authors (it is emailed to you the day after submitting)
 - write layman article on Medium
 
 
 ## AI model training
-- wandb.ai
+- use Pytorch Lightening: few hours learning will save you so much time. 
+- wandb.ai: tracking training progress (collaboratively)
