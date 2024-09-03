@@ -1,6 +1,8 @@
 
 # Music AI: datasets, models, and tools
 
+## Tools
+- [Great comparison of soundfonts](https://www.youtube.com/watch?v=gutxwVlOB4Q)
 
 ## Audio encoders:
 - [music2latents](https://github.com/SonyCSLParis/music2latent)
